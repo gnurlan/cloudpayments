@@ -17,10 +17,10 @@
     }
   ],
   "require": {
-    "mygento/module-payment": "~2.4.*"
+    "mygento/module-payment": "~2.4"
   },
   "require-dev": {
-    "mygento/coding-standard": "~2.4.*"
+    "mygento/coding-standard": "~2.4"
   },
   "autoload": {
     "files": [
