@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "mygento/module-payment": "~2.4"
+    "mygento/module-payment": "~2.4.0-RC1"
   },
   "require-dev": {
     "mygento/coding-standard": "~2.4"
